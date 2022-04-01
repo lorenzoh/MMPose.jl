@@ -1,0 +1,7 @@
+name = "MMPose"
+uuid = "10e3e9bd-9a54-443d-807a-c85a17fff810"
+authors = ["lorenzoh <lorenz.ohly@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
